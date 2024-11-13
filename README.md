@@ -10,11 +10,11 @@ Simple calculator API hosted on APIMATIC
 If you are building with .NET CLI tools then you can also use the following command:
 
 ```bash
-dotnet add package HammettWashingtonSDK --version 1.3.9
+dotnet add package HammettWashingtonSDK --version 1.4.0
 ```
 
 You can also view the package at:
-https://www.nuget.org/packages/HammettWashingtonSDK/1.3.9
+https://www.nuget.org/packages/HammettWashingtonSDK/1.4.0
 
 ## Test the SDK
 
@@ -22,7 +22,7 @@ The generated SDK also contain one or more Tests, which are contained in the Tes
 
 ## Initialize the API Client
 
-**_Note:_** Documentation for the client can be found [here.](https://www.github.com/ZahraN444/hammett-washington-dotnet-sdk/tree/1.3.9/doc/client.md)
+**_Note:_** Documentation for the client can be found [here.](https://www.github.com/ZahraN444/hammett-washington-dotnet-sdk/tree/1.4.0/doc/client.md)
 
 The following parameters are configurable for the API Client:
 
@@ -41,17 +41,17 @@ APIMATICCalculatorClient client = new APIMATICCalculatorClient.Builder()
 
 ## List of APIs
 
-* [Simple Calculator](https://www.github.com/ZahraN444/hammett-washington-dotnet-sdk/tree/1.3.9/doc/controllers/simple-calculator.md)
+* [Simple Calculator](https://www.github.com/ZahraN444/hammett-washington-dotnet-sdk/tree/1.4.0/doc/controllers/simple-calculator.md)
 
 ## Classes Documentation
 
-* [Utility Classes](https://www.github.com/ZahraN444/hammett-washington-dotnet-sdk/tree/1.3.9/doc/utility-classes.md)
-* [HttpRequest](https://www.github.com/ZahraN444/hammett-washington-dotnet-sdk/tree/1.3.9/doc/http-request.md)
-* [HttpResponse](https://www.github.com/ZahraN444/hammett-washington-dotnet-sdk/tree/1.3.9/doc/http-response.md)
-* [HttpStringResponse](https://www.github.com/ZahraN444/hammett-washington-dotnet-sdk/tree/1.3.9/doc/http-string-response.md)
-* [HttpContext](https://www.github.com/ZahraN444/hammett-washington-dotnet-sdk/tree/1.3.9/doc/http-context.md)
-* [HttpClientConfiguration](https://www.github.com/ZahraN444/hammett-washington-dotnet-sdk/tree/1.3.9/doc/http-client-configuration.md)
-* [HttpClientConfiguration Builder](https://www.github.com/ZahraN444/hammett-washington-dotnet-sdk/tree/1.3.9/doc/http-client-configuration-builder.md)
-* [IAuthManager](https://www.github.com/ZahraN444/hammett-washington-dotnet-sdk/tree/1.3.9/doc/i-auth-manager.md)
-* [ApiException](https://www.github.com/ZahraN444/hammett-washington-dotnet-sdk/tree/1.3.9/doc/api-exception.md)
+* [Utility Classes](https://www.github.com/ZahraN444/hammett-washington-dotnet-sdk/tree/1.4.0/doc/utility-classes.md)
+* [HttpRequest](https://www.github.com/ZahraN444/hammett-washington-dotnet-sdk/tree/1.4.0/doc/http-request.md)
+* [HttpResponse](https://www.github.com/ZahraN444/hammett-washington-dotnet-sdk/tree/1.4.0/doc/http-response.md)
+* [HttpStringResponse](https://www.github.com/ZahraN444/hammett-washington-dotnet-sdk/tree/1.4.0/doc/http-string-response.md)
+* [HttpContext](https://www.github.com/ZahraN444/hammett-washington-dotnet-sdk/tree/1.4.0/doc/http-context.md)
+* [HttpClientConfiguration](https://www.github.com/ZahraN444/hammett-washington-dotnet-sdk/tree/1.4.0/doc/http-client-configuration.md)
+* [HttpClientConfiguration Builder](https://www.github.com/ZahraN444/hammett-washington-dotnet-sdk/tree/1.4.0/doc/http-client-configuration-builder.md)
+* [IAuthManager](https://www.github.com/ZahraN444/hammett-washington-dotnet-sdk/tree/1.4.0/doc/i-auth-manager.md)
+* [ApiException](https://www.github.com/ZahraN444/hammett-washington-dotnet-sdk/tree/1.4.0/doc/api-exception.md)
 
