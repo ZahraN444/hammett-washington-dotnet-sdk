@@ -2,9 +2,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIMATICCalculator.Standard", "APIMATICCalculator.Standard/APIMATICCalculator.Standard.csproj", "{6a994678-c5d0-4a0d-93fe-e5c07873d861}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIMATICCalculator.Standard", "APIMATICCalculator.Standard/APIMATICCalculator.Standard.csproj", "{3a44a5d9-5b22-43a9-9f1c-883cec42b8ea}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIMATICCalculator.Tests", "APIMATICCalculator.Tests/APIMATICCalculator.Tests.csproj", "{b7f8e6de-91c0-42dc-8aef-e818f73b756e}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIMATICCalculator.Tests", "APIMATICCalculator.Tests/APIMATICCalculator.Tests.csproj", "{7ffa0557-a8f7-42f8-9bbe-6f00c9316c4a}"
 EndProject
 Global
     GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,14 +12,14 @@ Global
         Release|Any CPU = Release|Any CPU
     EndGlobalSection
     GlobalSection(ProjectConfigurationPlatforms) = postSolution
-        {6a994678-c5d0-4a0d-93fe-e5c07873d861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-        {6a994678-c5d0-4a0d-93fe-e5c07873d861}.Debug|Any CPU.Build.0 = Debug|Any CPU
-        {6a994678-c5d0-4a0d-93fe-e5c07873d861}.Release|Any CPU.ActiveCfg = Release|Any CPU
-        {6a994678-c5d0-4a0d-93fe-e5c07873d861}.Release|Any CPU.Build.0 = Release|Any CPU
-        {b7f8e6de-91c0-42dc-8aef-e818f73b756e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-        {b7f8e6de-91c0-42dc-8aef-e818f73b756e}.Debug|Any CPU.Build.0 = Debug|Any CPU
-        {b7f8e6de-91c0-42dc-8aef-e818f73b756e}.Release|Any CPU.ActiveCfg = Release|Any CPU
-        {b7f8e6de-91c0-42dc-8aef-e818f73b756e}.Release|Any CPU.Build.0 = Release|Any CPU
+        {3a44a5d9-5b22-43a9-9f1c-883cec42b8ea}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {3a44a5d9-5b22-43a9-9f1c-883cec42b8ea}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {3a44a5d9-5b22-43a9-9f1c-883cec42b8ea}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {3a44a5d9-5b22-43a9-9f1c-883cec42b8ea}.Release|Any CPU.Build.0 = Release|Any CPU
+        {7ffa0557-a8f7-42f8-9bbe-6f00c9316c4a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {7ffa0557-a8f7-42f8-9bbe-6f00c9316c4a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {7ffa0557-a8f7-42f8-9bbe-6f00c9316c4a}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {7ffa0557-a8f7-42f8-9bbe-6f00c9316c4a}.Release|Any CPU.Build.0 = Release|Any CPU
     EndGlobalSection
     GlobalSection(SolutionProperties) = preSolution
         HideSolutionNode = FALSE
