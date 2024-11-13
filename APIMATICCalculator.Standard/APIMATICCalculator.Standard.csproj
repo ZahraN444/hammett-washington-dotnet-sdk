@@ -9,13 +9,13 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <AssemblyName>HammettWashingtonSDK</AssemblyName>
-    <Version>1.2.7.0</Version>
+    <Version>1.2.8.0</Version>
     <Authors>Zelenia Merrill</Authors>
     <Owners></Owners>
     <Product>APIMATICCalculator.Standard</Product>
     <Copyright>Copyright ©  2019</Copyright>
-    <AssemblyVersion>1.2.7.0</AssemblyVersion>
-    <FileVersion>1.2.7.0</FileVersion>
+    <AssemblyVersion>1.2.8.0</AssemblyVersion>
+    <FileVersion>1.2.8.0</FileVersion>
     <Description>Vel corrupti volupt</Description>
     <LangVersion>7.3</LangVersion>
     <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
