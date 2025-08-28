@@ -42,7 +42,7 @@ GetCalculateInput getCalculateInput = new GetCalculateInput
 
 try
 {
-    double? result = await simpleCalculatorController.GetCalculateAsync(getCalculateInput);
+    double result = await simpleCalculatorController.GetCalculateAsync(getCalculateInput);
 }
 catch (ApiException e)
 {
